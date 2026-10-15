@@ -137,7 +137,7 @@ flutter run
 
 # 🤝 Contributors
 
-**K Vishal Gokul Bhora**
+**R.B Shanju Vikashini**
 
 SRM Institute of Science and Technology
 
